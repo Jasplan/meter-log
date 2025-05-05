@@ -1,1 +1,1 @@
-https://github.com/Jasplan/meter-log.git
+Code to interface Arduino to swedish HAN interface and extract data to SD card in a Excel friendly format.
